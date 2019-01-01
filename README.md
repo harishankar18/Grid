@@ -1,2 +1,2 @@
 # Grid
-Tool for generating uni test cases and validating
+Framework for generating unit test cases and validating the functionality.
